@@ -1,0 +1,21 @@
+#task_title{
+	font-size: 30px;
+	margin-right: 20px;
+}
+
+.Task_addition{
+	margin-left:20px;
+}
+
+#tasks_table{
+	table-layout: fixed;
+}
+
+.table_data{
+	overflow-wrap: break-word;
+}
+
+#tasks_table_container{
+	background-color: lightblue;
+	margin-top: 10px;
+}
